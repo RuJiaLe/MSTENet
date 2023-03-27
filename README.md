@@ -4,4 +4,4 @@
 
 # Comparisons with State-of-the-arts
 ![](./Picture/1.png)
-![](./Picture/model-第 20 页.png)
+![](./Picture/20.png)
